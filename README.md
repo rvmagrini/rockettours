@@ -1,4 +1,4 @@
 # Rocket Tours
 
-A CSS project for a hypothetic Tour Company that would operate in Chapada dos Veadeiros, a breathtaking plateau area in Central-West of Brazil.
-Unbelievable rocky landscape, full of canyons, waterfalls and mystic.
+A CSS project for a hypothetic Tour Company that would operate in Chapada dos Veadeiros, a breathtaking plateau located in Central-West of Brazil.
+An unbelievable rocky landscape, full of waterfalls, deep canyons, an unique cerrado vegetation, a moon valley and lot of mystic.
